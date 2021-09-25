@@ -1,10 +1,10 @@
-#Ecuaciones Diferenciales 
+# Ecuaciones Diferenciales 
 
-###Semestre Agosto-Diciembre 2021
+### Semestre Agosto-Diciembre 2021
 
-###Apuntes del curso de Ecuaciones Diferenciales
+### Apuntes del curso de Ecuaciones Diferenciales
 
-###Unidad 1
+### Unidad 1
 
 - Ecuaciones Diferenciales 
 -Una ecuación diferencial es una ecuación que involucra una función desconocida y sus derivadas.
